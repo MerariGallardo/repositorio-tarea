@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Quest",
+  "description": "App de Productividad Gamificada para Estudiantes con temporizador Pomodoro, sistema de niveles XP, rachas y sincronización con Antigravity Core.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
